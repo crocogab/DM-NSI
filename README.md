@@ -5,4 +5,4 @@
 - Projects are coming soon
 
 ### Contact me
-[<img align="left" alt="instagram.com" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" />][https://www.instagram.com/_gabdn_/]
+<img align="left" alt="instagram.com" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" >&nbsp; My instagram : [Instagram](https://www.instagram.com/_gabdn_/ "My instagram")
